@@ -2,3 +2,11 @@
 0-node
 binary_tree_print.c
 0-main.c
+
+*
+!*.c
+*main.c
+!*.h
+!README.md
+
+!binary_trees
