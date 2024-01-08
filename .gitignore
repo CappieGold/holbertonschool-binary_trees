@@ -1,12 +1,11 @@
-.editorconfig
-0-node
-binary_tree_print.c
-0-main.c
-
 *
 !*.c
 *main.c
 !*.h
 !README.md
-
+.gitignore
+.editorconfig
+0-node
+binary_tree_print.c
+0-main.c
 !binary_trees
